@@ -1,0 +1,23 @@
+{
+  "name": "ntask-api",
+  "version": "0.1.0",
+  "description": "Node task API",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Juliano Rafael <julianorsfarias@msn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.2",
+    "express": "^4.14.0",
+    "jwt-simple": "^0.5.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "sequelize": "^3.28.0",
+    "sqlite3": "^3.1.8"
+  }
+}
