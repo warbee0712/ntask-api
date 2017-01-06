@@ -136,3 +136,6 @@
 {"level":"info","message":"::1 - - [06/Jan/2017:18:14:40 +0000] \"GET /apidoc/utils/handlebars_helper.js?v=1483726480030 HTTP/1.1\" 200 -\n","timestamp":"2017-01-06T18:14:40.406Z"}
 {"level":"info","message":"::1 - - [06/Jan/2017:18:14:40 +0000] \"GET /apidoc/vendor/diff_match_patch.min.js?v=1483726480030 HTTP/1.1\" 200 -\n","timestamp":"2017-01-06T18:14:40.608Z"}
 {"level":"info","message":"::1 - - [06/Jan/2017:18:16:02 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2017-01-06T18:16:02.388Z"}
+{"level":"info","message":"::1 - - [06/Jan/2017:18:23:23 +0000] \"GET / HTTP/1.1\" 200 22\n","timestamp":"2017-01-06T18:23:23.579Z"}
+{"level":"info","message":"::1 - - [06/Jan/2017:18:23:24 +0000] \"GET /favicon.ico HTTP/1.1\" 404 24\n","timestamp":"2017-01-06T18:23:24.400Z"}
+{"level":"info","message":"::1 - - [06/Jan/2017:18:24:22 +0000] \"GET /tasks HTTP/1.1\" 401 -\n","timestamp":"2017-01-06T18:24:22.672Z"}
