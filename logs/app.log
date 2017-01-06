@@ -139,3 +139,4 @@
 {"level":"info","message":"::1 - - [06/Jan/2017:18:23:23 +0000] \"GET / HTTP/1.1\" 200 22\n","timestamp":"2017-01-06T18:23:23.579Z"}
 {"level":"info","message":"::1 - - [06/Jan/2017:18:23:24 +0000] \"GET /favicon.ico HTTP/1.1\" 404 24\n","timestamp":"2017-01-06T18:23:24.400Z"}
 {"level":"info","message":"::1 - - [06/Jan/2017:18:24:22 +0000] \"GET /tasks HTTP/1.1\" 401 -\n","timestamp":"2017-01-06T18:24:22.672Z"}
+{"level":"info","message":"::1 - - [06/Jan/2017:18:34:58 +0000] \"GET / HTTP/1.1\" 200 22\n","timestamp":"2017-01-06T18:34:58.910Z"}
